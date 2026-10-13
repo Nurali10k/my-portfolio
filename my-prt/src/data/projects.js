@@ -5,7 +5,7 @@
     subtitle: 'E-commerce Platform',
     description: 'Полноценный интернет-магазин электроники с Firebase Firestore, real-time синхронизацией заказов между устройствами, AI-чатботом поддержки на базе Gemini API и полной админ-панелью с CRUD операциями.',
     image: 'https://i.ibb.co/Mk9Vf3hY/chrome-b-Sa2z-JOCXL.png',
-    liveUrl: 'https://nexus-shop.vercel.app',
+    liveUrl: 'https://nexus-shop-black.vercel.app/shop',
     githubUrl: 'https://github.com/Nurali10k/nexus-shop',
     techStack: ['React 18', 'Redux Toolkit', 'Firebase Firestore', 'Tailwind CSS', 'Framer Motion', 'Gemini AI', 'Vercel'],
     status: 'PRODUCTION READY',

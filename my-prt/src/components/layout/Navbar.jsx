@@ -37,10 +37,10 @@ export default function Navbar({ lang, setLang, theme, setTheme, t }) {
           <motion.a
             href="#home"
             onClick={(e) => { e.preventDefault(); scrollTo('home'); }}
-            className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent"
+            className="inline-flex items-center"
             whileHover={{ scale: 1.05 }}
           >
-            NM<span className="text-purple-500">.</span>
+            <img src="/nurali-logo.svg" alt="Nurali Mashrapov" className="h-10 w-10" />
           </motion.a>
 
           <div className="hidden md:flex items-center gap-1">
